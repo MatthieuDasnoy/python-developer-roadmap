@@ -1,2 +1,2 @@
 # Automate the boring stuff with Pyhton
-My solutions to all of the practice projects 
+My solutions to all the practice projects 

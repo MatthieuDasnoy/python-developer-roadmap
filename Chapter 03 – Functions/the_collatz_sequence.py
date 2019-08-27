@@ -21,9 +21,8 @@ while True:
 
                 if num == 1:
                     break
-
+                    
             break
 
     except ValueError:
-        print('Error: The number must be an integer.')
         print('Error: The number must be an integer.')

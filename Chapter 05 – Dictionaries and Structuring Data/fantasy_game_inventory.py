@@ -13,8 +13,10 @@ def displayInventory(some_dictionary):
 
 def addToIventory(some_dictionary, some_list):
     for i in some_list:
-        some_dictionary.setdefault(i, 0)    #If k key doesn't exist, add it to iventory and set is associated value to 0
-        some_dictionary[i] += 1             #Add 1 to associated value of k key
+        #If k key doesn't exist, add it to inventory
+        #and set is associated value to 0
+        some_dictionary.setdefault(i, 0)    
+        some_dictionary[i] += 1             
 
     return some_dictionary
 

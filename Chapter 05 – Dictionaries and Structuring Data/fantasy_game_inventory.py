@@ -13,8 +13,6 @@ def displayInventory(some_dictionary):
 
 def addToIventory(some_dictionary, some_list):
     for i in some_list:
-        #If k key doesn't exist, add it to inventory
-        #and set is associated value to 0
         some_dictionary.setdefault(i, 0)    
         some_dictionary[i] += 1             
 
@@ -22,3 +20,4 @@ def addToIventory(some_dictionary, some_list):
 
 player_inventory = addToIventory(player_inventory, dragon_loot)
 displayInventory(player_inventory)
+

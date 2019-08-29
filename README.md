@@ -25,7 +25,3 @@ Step 2: Practice by problem solving
     Series of challenging mathematical/computer programming problems.
     https://projecteuler.net/archives
     
-    w3resource
-    Python exercises and challenges.
-    https://www.w3resource.com/python-exercises/
-    

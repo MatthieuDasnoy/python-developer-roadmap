@@ -1,5 +1,5 @@
 # Pyhton Developer RoadMap
-A roadmap to becoming a Pyhton developer.
+A roadmap to becoming a Python developer.
 
 Step 1: Build a foundation by reading books
 
@@ -17,7 +17,7 @@ Step 1: Build a foundation by reading books
     
 Step 2: Practice by problem solving
 
-    Rolalind
+    Rosalind
     Platform for learning bioinformatics and programming through problem solving.
     http://rosalind.info/problems/locations/
     

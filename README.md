@@ -11,4 +11,4 @@ A roadmap to becoming a Python developer.
 
 - [Rosalind](http://rosalind.info/problems/locations/) 
 - [Project Euler](https://projecteuler.net/archives)
-    
+- [w3resource](https://www.w3resource.com/python-exercises/)

@@ -3,9 +3,9 @@ A roadmap to becoming a Python developer.
 
 ### 1. Learn
 
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) *by Al Sweigart*
-- [Think Python 2nd Edition](https://greenteapress.com/wp/think-python-2e/) *by Allen Downey*
-- Python Tricks: The Book *by Dan Bader*
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/), *by Al Sweigart*
+- [Think Python 2nd Edition](https://greenteapress.com/wp/think-python-2e/), *by Allen Downey*
+- Python Tricks: The Book, *by Dan Bader*
     
 ### 2. Practice 
 

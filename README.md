@@ -1,4 +1,4 @@
-# Pyhton Developer Roadmap
+# Python Developer Roadmap
 A roadmap to becoming a Python developer.
 
 ### 1. Learn

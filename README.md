@@ -10,6 +10,6 @@ A roadmap to becoming a Python developer.
     
 ### 2. Practice 
 
-- [Rosalind](http://rosalind.info/problems/locations/) 
-- [Project Euler](https://projecteuler.net/archives/)
-- [w3resource](https://www.w3resource.com/python-exercises/)
+- [Rosalind](http://rosalind.info/problems/locations) 
+- [Project Euler](https://projecteuler.net/archives)
+- [w3resource](https://www.w3resource.com/python-exercises)
